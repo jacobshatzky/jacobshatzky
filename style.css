@@ -13,6 +13,7 @@ body{
   margin-top: 5%;
   color: white;
   font-family: 'Century Gothic',sans-serif;
+  border-radius: 25px;
 }
 .box-img{
   border-radius: 50%;
