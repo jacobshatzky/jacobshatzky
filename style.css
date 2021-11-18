@@ -109,6 +109,10 @@ ul{
     border-radius: 25px;
 }
 
+p{
+	text-align: left;
+}
+
 @media screen and (max-width: 1000px) {
     
 }
